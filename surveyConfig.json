@@ -1,0 +1,21 @@
+{
+  "What is your marital status?": {
+    "Single": "Are you planning on getting married next year?",
+    "Married": {
+      "Less than a year": null,
+      "More than a year": "Have you celebrated your one year anniversary?"
+    }
+  },
+  "Are you planning on getting married next year?": {
+    "Yes": null,
+    "No": null
+  },
+  "How long have you been married?": {
+    "Less than a year": null,
+    "More than a year": "Have you celebrated your one year anniversary?"
+  },
+  "Have you celebrated your one year anniversary?": {
+    "Yes": null,
+    "No": null
+  }
+}
